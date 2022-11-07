@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/cart/cart",
+    "pages/category/category",
+    "pages/mine/mine",
+    "pages/search/search",
+    "pages/searchList/searchList",
+    "pages/details/details",
+    "pages/myConfig/myConfig",
+    "pages/myPathList/myPathList",
+    "pages/addMyPath/addMyPath",
+    "pages/order/order",
+    "pages/confirmOrder/confirmOrder",
+    "pages/paymont/paymont",
+    "pages/paySucces/paySucces",
+    "pages/login/login",
+    "pages/loginTel/loginTel",
+    "pages/loginCode/loginCode"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小明商城",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

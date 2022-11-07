@@ -1,0 +1,27 @@
+/* 全局字体颜色 */
+.f-color{
+	color: #636263;
+}
+
+/* 选中字体颜色 */
+.f-ative-color{
+	color: #49bdfb;
+}
+
+/* 主题色 */
+.bg-color{
+	background-color: #42b7FB;
+}
+
+.default-bg-color{
+	background-color: #f7f7f7;
+}
+
+/* 隐藏滚动条 */
+::-webkit-scrollbar{
+		display: none;
+		width: 0 !important;
+		height: 0 !important;
+		-webkit-appearance: none;
+		background-color: transparent;
+}

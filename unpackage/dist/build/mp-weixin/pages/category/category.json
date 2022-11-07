@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分类",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "lines": "/components/common/lines",
+    "tabbar": "/components/common/Tabbar"
+  }
+}

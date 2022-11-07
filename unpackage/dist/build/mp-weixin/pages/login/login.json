@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "login-other": "/components/login/logoOther"
+  }
+}

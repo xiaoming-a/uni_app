@@ -1,0 +1,71 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/category/category",
+          "pathName": "pages/category/category",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/details/details",
+          "pathName": "pages/details/details",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/cart/cart",
+          "pathName": "pages/cart/cart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/myConfig/myConfig",
+          "pathName": "pages/myConfig/myConfig",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/myPathList/myPathList",
+          "pathName": "pages/myPathList/myPathList",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/addMyPath/addMyPath",
+          "pathName": "pages/addMyPath/addMyPath",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/order/order",
+          "pathName": "pages/order/order",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/paymont/paymont",
+          "pathName": "pages/paymont/paymont",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

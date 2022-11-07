@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "小明商城",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "index-swiper": "/components/index/indexSwiper",
+    "recommend": "/components/index/recommend",
+    "card": "/components/common/card",
+    "comodity-list": "/components/common/comodityList",
+    "banner": "/components/index/banner",
+    "icons": "/components/index/icons",
+    "icon-banner": "/components/index/iconBanner",
+    "hot": "/components/index/hot",
+    "shop": "/components/index/shop",
+    "tabbar": "/components/common/Tabbar"
+  }
+}
